@@ -1,0 +1,6 @@
+openai
+faster_whisper
+SpeechRecognition
+pyttsx3
+PyAudio
+speech
